@@ -1,0 +1,13 @@
+{
+  "main.css": "/login-app/static/css/main.50ba325d.chunk.css",
+  "main.js": "/login-app/static/js/main.a9f06897.chunk.js",
+  "main.js.map": "/login-app/static/js/main.a9f06897.chunk.js.map",
+  "runtime~main.js": "/login-app/static/js/runtime~main.8a02c311.js",
+  "runtime~main.js.map": "/login-app/static/js/runtime~main.8a02c311.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/login-app/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/login-app/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/login-app/index.html",
+  "precache-manifest.d03220d5039ad9b17b44ab2497399ba5.js": "/login-app/precache-manifest.d03220d5039ad9b17b44ab2497399ba5.js",
+  "service-worker.js": "/login-app/service-worker.js",
+  "static/css/main.50ba325d.chunk.css.map": "/login-app/static/css/main.50ba325d.chunk.css.map"
+}
